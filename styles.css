@@ -1,8 +1,8 @@
 :root {
-    --branco-principal: #dd0c52;
+    --branco-principal: #f1157c;
     --cinza-secundario: #ffffff;
     --botao-azul: #000000;
-    --cor-de-fundo: #131212;
+    --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
 }
@@ -85,7 +85,7 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .secundario__botao {
